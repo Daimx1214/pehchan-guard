@@ -1,0 +1,62 @@
+# Pehchan Guard hard set - 60 hand-written examples (never generated, never trained on)
+# Mix: 10 English office/clinic/bank, 14 Roman Urdu WhatsApp, 12 Urdu script,
+# 8 mixed language, 6 typos/spacing, 4 multi-name, 6 clean.
+Dear Sir, I am writing to request a duplicate bill for my connection at [[ADDRESS|House 14, Street 9, Block C, DHA Phase 6, Karachi]]. Account holder name is [[NAME|Muhammad Rizwan Akhtar]], contact [[PHONE|0321-8847392]].
+Patient name: [[NAME|Shazia Parveen]], Age 34, CNIC: [[CNIC|35201-9876543-2]], Emergency contact (husband): [[PHONE|+92 333 4512987]]
+Please issue the salary certificate for [[NAME|Imran Sheikh]], CNIC [[CNIC|35202-1122334-5]], and email it to [[EMAIL|imran.sheikh@company.pk]] by Thursday.
+KYC update required for account holder Col. (R) [[NAME|Tariq Aziz]], IBAN [[BANK|PK91 MEZN 0001 2345 6789 0123]], mobile [[PHONE|0300-9456123]].
+Your car [[VEHICLE|LEB-19-4521]] is ready for delivery. Please bring your CNIC [[CNIC|35202-7654321-9]] and ask for [[NAME|Nabeel Ahmad]] at the front desk.
+Reference: job application of [[NAME|Hira Shahid]] for the post of Staff Nurse. Father name: [[NAME|Shahid Mahmood]]. Contact: [[EMAIL|hira.shahid99@gmail.com]], [[PHONE|0345-7788990]].
+The flat at [[ADDRESS|Flat 4-B, Sea View Apartments, Clifton Block 2, Karachi]] has been allotted to [[NAME|Farah Naz]] against CNIC [[CNIC|42301-5566778-8]].
+Kindly remit the consultancy fee to [[BANK|PK24 HABB 0012 3456 7890 1234]], account title Dr. [[NAME|Sana Tariq]], and share the receipt on [[EMAIL|sana.tariq@hospital.org.pk]].
+Visitor entry: [[NAME|Zafar Iqbal]], CNIC [[CNIC|61101-2233445-6]], vehicle [[VEHICLE|ICT-786]], host: [[NAME|Aslam Khan]].
+Loan application received from [[NAME|Muhammad Asif Raza]], s/o [[NAME|Abdul Razaq]], resident of [[ADDRESS|Mohalla Rasool Nagar, Near Jamia Masjid, Gujrat]], phone [[PHONE|0322-6677881]].
+bhai [[NAME|Noor]] ko bol do kal [[NAME|Ahmed Raza]] ayega uska no [[PHONE|0333 4455667]] hai mujhe call kar lena
+pls send cnic copy [[CNIC|3520212345671]] n call me on [[PHONE|+92 321 7654321]] asap
+yr mera number change hogaya hai ab ye wala hai [[PHONE|0301 9988776]] naam [[NAME|Ali Hamza]] save kar lo
+Assalamualaikum aunty, [[NAME|Fatima]] ki reports agayi hain, [[PHONE|0323-1122334]] par call kar ke pata kar lein
+bhai sahab gari [[VEHICLE|LEA-23-8890]] ki file gum hogayi hai malik ka naam [[NAME|Usman Tariq]] hai
+plz meri salary is account me bhej dein [[BANK|PK55 UNIL 0109 0023 4455 6677]] naam [[NAME|Kamran Aslam]]
+address note kar lo [[ADDRESS|ghar 22, gali 3, mohalla Shahdara, Lahore]] wahan [[NAME|Bilal Hussain]] milega [[PHONE|0302-5566778]]
+mera email ye hai [[EMAIL|m.ahmed1995@gmail.com]] cv bhej raha hun naam [[NAME|Muhammad Ahmed]] likha hai
+cnic ki copy whatsapp kar do [[CNIC|35202-3344556-7]] wala, aur number bhi [[PHONE|0345 6677889]]
+kal [[NAME|Zainab]] ki birthday hai usko [[PHONE|0333-9988112]] par wish kar dena surprise hai
+shop ka address: [[ADDRESS|Dukaan 5, Urdu Bazaar, Lahore]], malik [[NAME|Abdul Hafeez]], [[PHONE|0321-4433221]]
+yar [[NAME|Sana]] ka number do us se baat karni hai school ke hawale se
+bijli ka bill zyada aya hai, reference ke liye naam [[NAME|Chaudhry Muhammad Boota]], pata [[ADDRESS|Chak 45, Tehsil Jaranwala]]
+gari ki booking confirm hai [[VEHICLE|RIA 452]] driver [[NAME|Muhammad Ramzan]] [[PHONE|0300-7766554]] time par pohanch jayega
+درخواست گزار کا نام [[NAME|محمد افضل]] ہے، شناختی کارڈ نمبر [[CNIC|35202-4455667-8]] اور پتہ [[ADDRESS|مکان نمبر 8، گلی نمبر 2، شاد باغ، لاہور]] ہے۔
+مریض [[NAME|خالدہ پروین]] کو داخل کر لیا گیا ہے، اہل خانہ [[PHONE|0321-6655443]] پر رابطہ کریں۔
+براہ کرم رقم اس اکاؤنٹ میں بھیجیں: [[BANK|PK77 MEZN 0102 0304 0506 0708]]، اکاؤنٹ ہولڈر حاجی [[NAME|محمد اسلم]] ہیں۔
+میرے والد [[NAME|غلام رسول]] کا شناختی کارڈ [[CNIC|33100-1239876-5]] گم ہو گیا ہے، ملنے پر [[PHONE|0300-1122998]] پر اطلاع دیں۔
+دکان کا کرایہ [[NAME|رانا محمد ارشد]] کو ہر ماہ کی پانچ تاریخ کو دیا جائے گا، پتہ [[ADDRESS|دکان نمبر 12، انارکلی بازار، لاہور]]۔
+اس گاڑی [[VEHICLE|LEA-19-3322]] کے مالک میاں [[NAME|محمد نواز]] ہیں، ان کا نمبر [[PHONE|0322-9988776]] ہے۔
+فیس اس اکاؤنٹ میں جمع کرائیں [[BANK|01029384756102]] اور رسید [[EMAIL|info@school.edu.pk]] پر بھیجیں، طالب علم کا نام [[NAME|عبدالرحمن]] ہے۔
+شکایت کنندہ [[NAME|نسرین بی بی]]، پتہ [[ADDRESS|محلہ رسول نگر، نزد جامع مسجد، گجرات]]، رابطہ نمبر [[PHONE|0333-7766554]]۔
+تمام اہل محلہ کو اطلاع دی جاتی ہے کہ چوہدری [[NAME|محمد صدیق]] کے بیٹے کی شادی ہے، رابطہ [[PHONE|0345-5544332]]۔
+نوکری کے لیے درخواست: نام [[NAME|محمد وسیم اختر]]، شناختی کارڈ [[CNIC|35201-6677889-0]]، ای میل [[EMAIL|waseem.akhtar.dev@gmail.com]]، پتہ [[ADDRESS|مکان 45، بلاک سی، جوہر ٹاؤن، لاہور]]۔
+اسکول کی پرنسپل [[NAME|شگفتہ جبیں]] سے ملاقات کا وقت [[PHONE|0321-2211334]] پر لے لیں۔
+گزشتہ روز [[NAME|محمد الیاس]] ولد [[NAME|محمد صادق]] ساکن [[ADDRESS|چک نمبر 12، تحصیل چونیاں، ضلع قصور]] نے تھانے میں رپورٹ درج کرائی کہ ان کی گاڑی [[VEHICLE|LEB-4410]] چوری ہو گئی ہے۔ رابطہ نمبر [[PHONE|0301-6677885]] اور شناختی کارڈ [[CNIC|35102-9988776-3]] رپورٹ میں درج ہے۔
+Please ask [[NAME|محمد شفیق]] to call me, un ka number [[PHONE|0300-3344556]] hai aur email [[EMAIL|shafiq.traders@yahoo.com]] bhi note kar lein.
+[[NAME|علی رضا]] will bring the documents kal subah, his CNIC is [[CNIC|35202-7788990-1]] aur address [[ADDRESS|House 9, Street 14, F-7/2, Islamabad]] hai.
+Assalam o Alaikum, this is Dr. [[NAME|Ayesha Rahman]] from City Hospital, mareez ki reports [[EMAIL|ayesha.rahman@cityhospital.pk]] par bhej dein.
+میرا نام [[NAME|Usman Ghani]] ہے and my new number is [[PHONE|+92 345 1234567]], purana wala band ho gaya hai.
+Bhai [[NAME|محمد عرفان]] ko parcel de dena, address [[ADDRESS|مکان نمبر 3، گلی نمبر 7، ماڈل ٹاؤن، ملتان]], payment [[BANK|PK63 HABB 0045 6789 0123 4567]] se ho jayegi.
+Kal meeting mein [[NAME|Sarah Khan]] aur [[NAME|علی حسن]] dono honge, Sarah ka email [[EMAIL|sarah.khan@techfirm.com]] hai.
+Emergency mein [[NAME|محمد اکرم]] صاحب کو [[PHONE|0321-9900112]] پر اطلاع دیں، وہ مریض کے بھائی ہیں۔
+mera cnic number ye hai [[CNIC|35202 1234567 1]] aur fone number [[PHONE|03 00 1234567]] likh lein naam [[NAME|Abdul Malik]]
+email id: [[EMAIL|ali.raza @ gmail.com]] par bhejna, aur cc [[EMAIL|hr @ office.pk]] ko bhi kar dena
+Name : [[NAME|Muhammad Ilyas]] , CNIC : [[CNIC|35202-1357924-6]] , Cell : [[PHONE|0300 - 2468135]]
+plz note my new numbr [[PHONE|03215550134]] nd adress [[ADDRESS|h no 71 st 9 g 9 2 islamabad]] name [[NAME|Faisal Mehmood]]
+Account no. [[BANK|1020 3040 5060 7080]] title [[NAME|S. M. Rizwan]] bank meezan, urgent transfer kar dein
+gari num [[VEHICLE|le a 4410]] chori ho gayi hai malik [[NAME|Rana Sanaullah]]
+Father name: [[NAME|Muhammad Sadiq]], Mother name: [[NAME|Razia Bibi]], candidate: [[NAME|Ahmed Sadiq]], CNIC: [[CNIC|35202-2468135-7]]
+[[NAME|علی رضا]] نے اپنی زمین [[NAME|محمد بخش]] کے نام منتقل کر دی ہے، دونوں کے شناختی کارڈ [[CNIC|35201-1122334-4]] اور [[CNIC|35201-5566778-9]] درج ہیں۔
+[[NAME|Kamran Shahid]] aur [[NAME|David Mathew]] ki meeting kal hai, David ka number [[PHONE|+92 321 4455667]] hai.
+Gawah 1: [[NAME|Muhammad Din]], Gawah 2: [[NAME|Allah Ditta]], nikah khawan ko [[PHONE|0300-6655443]] par bula lein.
+Ticket 55421 ka total Rs 12,000 hai aur order 15 December ko aayega.
+Kal barish ka imkan hai, darja hararat 12 degree tak reh sakta hai.
+Noor Mahal Bahawalpur ki mashhoor tareekhi imarat hai.
+Bus number 27 subah 7:40 par college road se guzarti hai.
+Salaam, kal ki class cancel hai, agla lecture Monday ko hoga.
+Total bill 8,450 rupay hai, 500 ki discount ke baad 7,950 dene hain.

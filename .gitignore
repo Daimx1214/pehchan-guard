@@ -1,0 +1,10 @@
+*.gguf
+*.safetensors
+*.bin
+models/
+pehchan_merged/
+pehchan_lora/
+pehchan_gguf/
+__pycache__/
+.env
+*.zip
