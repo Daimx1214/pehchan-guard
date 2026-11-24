@@ -1,0 +1,60 @@
+{"id": "hard-003", "prediction": "REDACTED:\nDear Sir, I am writing to request a duplicate bill for my connection at [ADDRESS]. Account holder name is [NAME], contact [PHONE].\nFOUND:\n- ADDRESS: House 14, Street 9, Block C, DHA Phase 6, Karachi\n- NAME: Muhammad Rizwan Akhtar\n- PHONE: 0321-8847392"}
+{"id": "hard-004", "prediction": "REDACTED:\nPatient name: [NAME], Age 34, CNIC: [CNIC], Emergency contact (husband): [PHONE]\nFOUND:\n- NAME: Shazia Parveen\n- CNIC: 35201-9876543-2\n- PHONE: +92 333 4512987"}
+{"id": "hard-005", "prediction": "REDACTED:\nPlease issue the salary certificate for [NAME], CNIC [CNIC], and email it to [EMAIL] by Thursday.\nFOUND:\n- NAME: Imran Sheikh\n- CNIC: 35202-1122334-5\n- EMAIL: imran.sheikh@company.pk"}
+{"id": "hard-006", "prediction": "REDACTED:\nKYC update required for account holder [NAME], IBAN [BANK], mobile [PHONE].\nFOUND:\n- NAME: Col. (R) Tariq Aziz\n- BANK: PK91 MEZN 0001 2345 6789 0123\n- PHONE: 0300-9456123"}
+{"id": "hard-007", "prediction": "REDACTED:\nYour car [VEHICLE] is ready for delivery. Please bring your CNIC [CNIC] and ask for [NAME] at the front desk.\nFOUND:\n- VEHICLE: LEB-19-4521\n- CNIC: 35202-7654321-9\n- NAME: Nabeel Ahmad"}
+{"id": "hard-008", "prediction": "REDACTED:\nReference: job application of [NAME] for the post of Staff Nurse. Father name: [NAME]. Contact: [EMAIL], [PHONE].\nFOUND:\n- NAME: Hira Shahid\n- NAME: Shahid Mahmood\n- EMAIL: hira.shahid99@gmail.com\n- PHONE: 0345-7788990"}
+{"id": "hard-009", "prediction": "REDACTED:\nThe flat at [ADDRESS] has been allotted to [NAME] against CNIC [CNIC].\nFOUND:\n- ADDRESS: Flat 4-B, Sea View Apartments, Clifton Block 2, Karachi\n- NAME: Farah Naz\n- CNIC: 42301-5566778-8"}
+{"id": "hard-010", "prediction": "REDACTED:\nKindly remit the consultancy fee to [BANK], account title [NAME], and share the receipt on [EMAIL].\nFOUND:\n- BANK: PK24 HABB 0012 3456 7890 1234\n- NAME: Dr. Sana Tariq\n- EMAIL: sana.tariq@hospital.org.pk"}
+{"id": "hard-011", "prediction": "REDACTED:\nVisitor entry: [NAME], CNIC [CNIC], vehicle [VEHICLE], host: [NAME].\nFOUND:\n- NAME: Zafar Iqbal\n- CNIC: 61101-2233445-6\n- VEHICLE: ICT-786\n- NAME: Aslam Khan"}
+{"id": "hard-012", "prediction": "REDACTED:\nLoan application received from [NAME], s/o [NAME], resident of [ADDRESS], phone [PHONE].\nFOUND:\n- NAME: Muhammad Asif Raza\n- NAME: Abdul Razaq\n- ADDRESS: Mohalla Rasool Nagar, Near Jamia Masjid, Gujrat\n- PHONE: 0322-6677881"}
+{"id": "hard-013", "prediction": "REDACTED:\nbhai [NAME] ko bol do kal [NAME] ayega uska no [PHONE] hai mujhe call kar lena\nFOUND:\n- NAME: Noor\n- NAME: Ahmed Raza\n- PHONE: 0333 4455667"}
+{"id": "hard-014", "prediction": "REDACTED:\npls send cnic [CNIC] n call me on [PHONE] asap\nFOUND:\n- CNIC: 3520212345671\n- PHONE: +92 321 7654321"}
+{"id": "hard-015", "prediction": "REDACTED:\nyr mera number change hogaya hai ab ye wala hai [PHONE] naam [NAME] save kar lo\nFOUND:\n- PHONE: 0301 9988776\n- NAME: Ali Hamza"}
+{"id": "hard-016", "prediction": "REDACTED:\nAssalamualaikum aunty, [NAME] ki reports agayi hain, [PHONE] par call kar ke pata kar lein\nFOUND:\n- NAME: Fatima\n- PHONE: 0323-1122334"}
+{"id": "hard-017", "prediction": "REDACTED:\nbhai sahab gari [VEHICLE] ki file gum hogayi hai malik ka naam [NAME] hai\nFOUND:\n- VEHICLE: LEA-23-8890\n- NAME: Usman Tariq"}
+{"id": "hard-018", "prediction": "REDACTED:\nplz meri salary is account me bhej dein [BANK] naam [NAME]\nFOUND:\n- BANK: PK55 UNIL 0109 0023 4455 6677\n- NAME: Kamran Aslam"}
+{"id": "hard-019", "prediction": "REDACTED:\naddress note kar lo [ADDRESS] wahan [NAME] milega [PHONE]\nFOUND:\n- ADDRESS: ghar 22, gali 3, mohalla Shahdara, Lahore\n- NAME: Bilal Hussain\n- PHONE: 0302-5566778"}
+{"id": "hard-020", "prediction": "REDACTED:\nmera email ye hai [EMAIL] cv bhej raha hun naam [NAME] likha hai\nFOUND:\n- EMAIL: m.ahmed1995@gmail.com\n- NAME: Muhammad Ahmed"}
+{"id": "hard-021", "prediction": "REDACTED:\ncnic ki copy whatsapp kar do [CNIC] wala, aur number bhi [PHONE]\nFOUND:\n- CNIC: 35202-3344556-7\n- PHONE: 0345 6677889"}
+{"id": "hard-022", "prediction": "REDACTED:\nkal [NAME] ki birthday hai usko [PHONE] par wish kar dena surprise hai\nFOUND:\n- NAME: Zainab\n- PHONE: 0333-9988112"}
+{"id": "hard-023", "prediction": "REDACTED:\nshop ka address: [ADDRESS], [NAME], [PHONE]\nFOUND:\n- ADDRESS: Dukaan 5, Urdu Bazaar, Lahore\n- NAME: malik Abdul Hafeez\n- PHONE: 0321-4433221"}
+{"id": "hard-024", "prediction": "REDACTED:\nyar [NAME] ka number do us se baat karni hai school ke hawale se\nFOUND:\n- NAME: Sana"}
+{"id": "hard-025", "prediction": "REDACTED:\nbijli ka bill zyada aya hai, reference ke liye naam [NAME], pata [ADDRESS]\nFOUND:\n- NAME: Chaudhry Muhammad Boota\n- ADDRESS: Chak 45, Tehsil Jaranwala"}
+{"id": "hard-026", "prediction": "REDACTED:\ngari ki booking confirm hai [VEHICLE] driver [NAME] [PHONE] time par pohanch jayega\nFOUND:\n- VEHICLE: RIA 452\n- NAME: Muhammad Ramzan\n- PHONE: 0300-7766554"}
+{"id": "hard-027", "prediction": "REDACTED:\nدرخواست گزار کا نام [NAME] ہے، شناختی کارڈ نمبر [CNIC] اور پتہ [ADDRESS] ہے۔\nFOUND:\n- NAME: محمد افضل\n- CNIC: 35202-4455667-8\n- ADDRESS: مکان نمبر 8، گلی نمبر 2، شاد باغ، لاہور"}
+{"id": "hard-028", "prediction": "REDACTED:\n[NAME] کو داخل کر لیا گیا ہے، اہل خانہ [PHONE] پر رابطہ کریں۔\nFOUND:\n- NAME: مریض خالدہ پروین\n- PHONE: 0321-6655443"}
+{"id": "hard-029", "prediction": "REDACTED:\nبراہ کرم رقم اس اکاؤنٹ میں بھیجیں: [BANK]، اکاؤنٹ ہولڈر [NAME] ہیں۔\nFOUND:\n- BANK: PK77 MEZN 0102 0304 0506 0708\n- NAME: حاجی محمد اسلم"}
+{"id": "hard-030", "prediction": "REDACTED:\nمیرے والد [NAME] کا شناختی کارڈ [CNIC] گم ہو گیا ہے، ملنے پر [PHONE] پر اطلاع دیں۔\nFOUND:\n- NAME: غلام رسول\n- CNIC: 33100-1239876-5\n- PHONE: 0300-1122998"}
+{"id": "hard-031", "prediction": "REDACTED:\nدکان کا کرایہ [NAME] کو ہر ماہ کی پانچ تاریخ کو دیا جائے گا، پتہ [ADDRESS]۔\nFOUND:\n- NAME: رانا محمد ارشد\n- ADDRESS: دکان نمبر 12، انارکلی بازار، لاہور"}
+{"id": "hard-032", "prediction": "REDACTED:\nاس گاڑی [VEHICLE] کے مالک [NAME] ہیں، ان کا نمبر [PHONE] ہے۔\nFOUND:\n- VEHICLE: LEA-19-3322\n- NAME: میاں محمد نواز\n- PHONE: 0322-9988776"}
+{"id": "hard-033", "prediction": "REDACTED:\nفیس اس اکاؤنٹ میں جمع کرائیں [BANK] اور رسید [EMAIL] پر بھیجیں، طالب علم کا نام [NAME] ہے۔\nFOUND:\n- BANK: 01029384756102\n- EMAIL: info@school.edu.pk\n- NAME: عبدالرحمن"}
+{"id": "hard-034", "prediction": "REDACTED:\nشکایت کنندہ [NAME]، پتہ [ADDRESS]، رابطہ نمبر [PHONE]۔\nFOUND:\n- NAME: نسرین بی بی\n- ADDRESS: محلہ رسول نگر، نزد جامع مسجد\n- PHONE: 0333-7766554"}
+{"id": "hard-035", "prediction": "REDACTED:\nتمام اہل محلہ کو اطلاع دی جاتی ہے کہ [NAME] کے بیٹے کی شادی ہے، رابطہ [PHONE]۔\nFOUND:\n- NAME: چوہدری محمد صدیق\n- PHONE: 0345-5544332"}
+{"id": "hard-036", "prediction": "REDACTED:\nنوکری کے لیے درخواست: نام [NAME]، شناختی کارڈ [CNIC]، ای میل [EMAIL]، پتہ [ADDRESS]۔\nFOUND:\n- NAME: محمد وسیم اختر\n- CNIC: 35201-6677889-0\n- EMAIL: waseem.akhtar.dev@gmail.com\n- ADDRESS: مکان 45، بلاک سی، جوہر ٹاؤن، لاہور"}
+{"id": "hard-037", "prediction": "REDACTED:\nاسکول کی پرنسپل [NAME] جبیں [PHONE] پر لے لیں۔\nFOUND:\n- NAME: شگفتہ جبیں\n- PHONE: 0321-2211334"}
+{"id": "hard-038", "prediction": "REDACTED:\nگزشتہ روز [NAME] ولد [NAME] ساکن چک نمبر [ADDRESS]، تحصیل [ADDRESS]، ضلع [ADDRESS] نے تھانے میں رپورٹ درج کرائی کہ ان کی گاڑی [VEHICLE] چوری ہو گئی ہے۔ رابطہ نمبر [PHONE] اور شناختی کارڈ [CNIC] رپورٹ میں درج ہے۔\nFOUND:\n- NAME: محمد الیاس\n- NAME: محمد صادق\n- ADDRESS: چک نمبر 12\n- ADDRESS: چونیاں\n- ADDRESS: قصور\n- VEHICLE: LEB-4410\n- PHONE: 0301-6677885\n- CNIC: 35102-9988776-3"}
+{"id": "hard-039", "prediction": "REDACTED:\nPlease ask [NAME] to call me, un ka number [PHONE] hai aur email [EMAIL] bhi note kar lein.\nFOUND:\n- NAME: محمد شفیق\n- PHONE: 0300-3344556\n- EMAIL: shafiq.traders@yahoo.com"}
+{"id": "hard-040", "prediction": "REDACTED:\n[NAME] will bring the documents [NAME], his CNIC is [CNIC] and address [ADDRESS].\nFOUND:\n- NAME: علی رضا\n- NAME: kal subah\n- CNIC: 35202-7788990-1\n- ADDRESS: House 9, Street 14, F-7/2, Islamabad"}
+{"id": "hard-041", "prediction": "REDACTED:\nAssalam o Alaikum, this is [NAME] from [ADDRESS], [NAME] ki reports [EMAIL] par bhej dein.\nFOUND:\n- NAME: Dr. Ayesha Rahman\n- ADDRESS: City Hospital\n- NAME: mareez\n- EMAIL: ayesha.rahman@cityhospital.pk"}
+{"id": "hard-042", "prediction": "REDACTED:\nمیرا نام [NAME] ہے and my new number is [PHONE], purana wala band ho gaya hai.\nFOUND:\n- NAME: Usman Ghani\n- PHONE: +92 345 1234567"}
+{"id": "hard-043", "prediction": "REDACTED:\nBhai [NAME] ko parcel de dena, address [ADDRESS], payment [BANK] se ho jayegi.\nFOUND:\n- NAME: محمد عرفان\n- ADDRESS: مکان نمبر 3، گلی نمبر 7، ماڈل ٹاؤن، ملتان\n- BANK: PK63 HABB 0045 6789 0123 4567"}
+{"id": "hard-044", "prediction": "REDACTED:\nKal meeting mein [NAME] aur [NAME] dono honge, [NAME] ka email [EMAIL] hai.\nFOUND:\n- NAME: Sarah Khan\n- NAME: علی حسن\n- NAME: Sarah\n- EMAIL: sarah.khan@techfirm.com"}
+{"id": "hard-045", "prediction": "REDACTED:\nEmergency mein [NAME] صاحب کو [PHONE] پر اطلاع دیں، وہ مریض کے بھائی ہیں۔\nFOUND:\n- NAME: محمد اکرم\n- PHONE: 0321-9900112"}
+{"id": "hard-046", "prediction": "REDACTED:\nmera cnic number ye hai [CNIC] aur fone number [PHONE] likh lein naam [NAME]\nFOUND:\n- CNIC: 35202 1234567 1\n- PHONE: 03 00 1234567\n- NAME: Abdul Malik"}
+{"id": "hard-047", "prediction": "REDACTED:\nemail id: [EMAIL] par bhejna, aur cc [EMAIL] ko bhi kar dena\nFOUND:\n- EMAIL: ali.raza@gmail.com\n- EMAIL: hr@office.pk"}
+{"id": "hard-048", "prediction": "REDACTED:\nName : [NAME] , CNIC : [CNIC] , Cell : [PHONE]\nFOUND:\n- NAME: Muhammad Ilyas\n- CNIC: 35202-1357924-6\n- PHONE: 0300 - 2468135"}
+{"id": "hard-049", "prediction": "REDACTED:\nplz note my new number [PHONE] and address [ADDRESS] name [NAME]\nFOUND:\n- PHONE: 03215550134\n- ADDRESS: h no 71 st 9 g 9 2 islamabad\n- NAME: Faisal Mehmood"}
+{"id": "hard-050", "prediction": "REDACTED:\nAccount no. [BANK] title [NAME] bank [ADDRESS] urgent transfer kar dein\nFOUND:\n- BANK: 1020 3040 5060 7080\n- NAME: S. M. Rizwan\n- ADDRESS: meezan, urgent"}
+{"id": "hard-051", "prediction": "REDACTED:\ngari num le a [ADDRESS] chori ho gayi hai malik [NAME]\nFOUND:\n- ADDRESS: 4410\n- NAME: Rana Sanaullah"}
+{"id": "hard-052", "prediction": "REDACTED:\nFather name: [NAME], Mother name: [NAME], candidate: [NAME], CNIC: [CNIC]\nFOUND:\n- NAME: Muhammad Sadiq\n- NAME: Razia Bibi\n- NAME: Ahmed Sadiq\n- CNIC: 35202-2468135-7"}
+{"id": "hard-053", "prediction": "REDACTED:\n[NAME] نے اپنی زمین [NAME] کے نام منتقل کر دی ہے، دونوں کے شناختی کارڈ [CNIC] اور [CNIC] درج ہیں۔\nFOUND:\n- NAME: علی رضا\n- NAME: محمد بخش\n- CNIC: 35201-1122334-4\n- CNIC: 35201-5566778-9"}
+{"id": "hard-054", "prediction": "REDACTED:\n[NAME] aur [NAME] ki meeting kal hai, [NAME] ka number [PHONE] hai.\nFOUND:\n- NAME: Kamran Shahid\n- NAME: David Mathew\n- NAME: David\n- PHONE: +92 321 4455667"}
+{"id": "hard-055", "prediction": "REDACTED:\nGawah 1: [NAME], Gawah 2: [NAME], nikah khawan ko [PHONE] par bula lein.\nFOUND:\n- NAME: Muhammad Din\n- NAME: Allah Ditta\n- PHONE: 0300-6655443"}
+{"id": "hard-056", "prediction": "REDACTED:\nTicket 55421 ka total Rs 12,000 hai aur order 15 December ko aayega.\nFOUND:\n- none"}
+{"id": "hard-057", "prediction": "REDACTED:\nKal barish ka imkan hai, darja [NAME] 12 degree tak reh sakta hai.\nFOUND:\n- NAME: hararat"}
+{"id": "hard-058", "prediction": "REDACTED:\nNoor Mahal Bahawalpur ki mashhoor tareekhi imarat hai.\nFOUND:\n- none"}
+{"id": "hard-059", "prediction": "REDACTED:\nBus number 27 subah 7:40 par college road se guzarti hai.\nFOUND:\n- none"}
+{"id": "hard-060", "prediction": "REDACTED:\nSalaam, kal ki class cancel hai, agla lecture Monday ko hoga.\nFOUND:\n- none"}
+{"id": "hard-061", "prediction": "REDACTED:\nTotal bill 8,450 rupay hai, 500 ki discount ke baad 7,950 dene hain.\nFOUND:\n- none"}
+{"id": "hard-062", "prediction": "REDACTED:\n[NAME] bhai ko paise bhej diye hain [BANK] mein, [NAME] ko call kar ke bata dein [PHONE].\nFOUND:\n- NAME: aslam\n- BANK: PK12 MEZN 0009 8765 4321 0987\n- NAME: Muhammad Aslam\n- PHONE: 0301-3344556"}
