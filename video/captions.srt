@@ -1,0 +1,40 @@
+1
+00:00:00,300 --> 00:00:09,900
+This is Pehchan Guard. It removes personal details from Pakistani text, Urdu, Roman Urdu, and English, and it runs completely offline, on your own machine.
+
+2
+00:00:11,300 --> 00:00:18,200
+Paste any text. Names, addresses, and phone numbers are replaced with labels, and everything it finds is listed on the right.
+[demo slightly sped up — the on-screen timer is real]
+
+3
+00:00:20,000 --> 00:00:27,000
+Everything runs on this machine. Watch the badge at the top right: 100% local, no internet.
+
+4
+00:00:37,600 --> 00:00:41,300
+It works the same for Roman Urdu, the way most people actually type.
+
+5
+00:00:44,000 --> 00:00:50,000
+Every item it finds is listed with its type, so each change can be checked.
+
+6
+00:01:02,700 --> 00:01:10,400
+And for Urdu script, including bank details and CNIC numbers. Notice the title, Sahib, is correctly left outside the name.
+
+7
+00:01:13,000 --> 00:01:19,000
+The redacted Urdu text keeps its direction and punctuation — only the personal details change.
+
+8
+00:01:27,800 --> 00:01:37,600
+Here are the measured results. On 400 held-out examples, the base model scored almost zero, and a regex script scored 0.615. Pehchan Guard scores 0.970.
+
+9
+00:01:37,600 --> 00:01:48,600
+On messy, hand-written text it scores 0.883. It still makes mistakes, and the full failure list is public.
+
+10
+00:01:50,800 --> 00:02:00,400
+Pehchan Guard is a 1.7 billion parameter Qwen fine-tune — one gigabyte, free to download, and it runs on a normal laptop.
